@@ -1,0 +1,5 @@
+C:\ClaudiaRiveraG\MDIApplication.ClaudiaRivera\MDIApplication.ClaudiaRivera.Utility\bin\Debug\MDIApplication.ClaudiaRivera.Utility.dll
+C:\ClaudiaRiveraG\MDIApplication.ClaudiaRivera\MDIApplication.ClaudiaRivera.Utility\bin\Debug\MDIApplication.ClaudiaRivera.Utility.pdb
+C:\ClaudiaRiveraG\MDIApplication.ClaudiaRivera\MDIApplication.ClaudiaRivera.Utility\obj\Debug\MDIApplication.ClaudiaRivera.Utility.csproj.CoreCompileInputs.cache
+C:\ClaudiaRiveraG\MDIApplication.ClaudiaRivera\MDIApplication.ClaudiaRivera.Utility\obj\Debug\MDIApplication.ClaudiaRivera.Utility.dll
+C:\ClaudiaRiveraG\MDIApplication.ClaudiaRivera\MDIApplication.ClaudiaRivera.Utility\obj\Debug\MDIApplication.ClaudiaRivera.Utility.pdb

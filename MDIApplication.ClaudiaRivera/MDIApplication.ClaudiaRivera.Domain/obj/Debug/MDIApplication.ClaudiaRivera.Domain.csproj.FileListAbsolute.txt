@@ -1,0 +1,9 @@
+C:\ClaudiaRiveraG\MDIApplication.ClaudiaRivera\MDIApplication.ClaudiaRivera.Domain\bin\Debug\MDIApplication.ClaudiaRivera.Domain.dll
+C:\ClaudiaRiveraG\MDIApplication.ClaudiaRivera\MDIApplication.ClaudiaRivera.Domain\bin\Debug\MDIApplication.ClaudiaRivera.Domain.pdb
+C:\ClaudiaRiveraG\MDIApplication.ClaudiaRivera\MDIApplication.ClaudiaRivera.Domain\bin\Debug\MDIApplication.ClaudiaRivera.Utility.dll
+C:\ClaudiaRiveraG\MDIApplication.ClaudiaRivera\MDIApplication.ClaudiaRivera.Domain\bin\Debug\MDIApplication.ClaudiaRivera.Utility.pdb
+C:\ClaudiaRiveraG\MDIApplication.ClaudiaRivera\MDIApplication.ClaudiaRivera.Domain\obj\Debug\MDIApplication.ClaudiaRivera.Domain.csprojAssemblyReference.cache
+C:\ClaudiaRiveraG\MDIApplication.ClaudiaRivera\MDIApplication.ClaudiaRivera.Domain\obj\Debug\MDIApplication.ClaudiaRivera.Domain.csproj.CoreCompileInputs.cache
+C:\ClaudiaRiveraG\MDIApplication.ClaudiaRivera\MDIApplication.ClaudiaRivera.Domain\obj\Debug\MDIApplication.ClaudiaRivera.Domain.csproj.CopyComplete
+C:\ClaudiaRiveraG\MDIApplication.ClaudiaRivera\MDIApplication.ClaudiaRivera.Domain\obj\Debug\MDIApplication.ClaudiaRivera.Domain.dll
+C:\ClaudiaRiveraG\MDIApplication.ClaudiaRivera\MDIApplication.ClaudiaRivera.Domain\obj\Debug\MDIApplication.ClaudiaRivera.Domain.pdb
